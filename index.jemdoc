@@ -8,11 +8,21 @@
 {}{img_left}{./photo_Damu.png}{photo}{150px}{200px}{}
 
 Co-tutored Ph.D stduent\n
-- [https://create-net.fbk.eu/rising/ Robust and Secure Distributed Computing (RiSING) research unit]\n
-[https://create-net.fbk.eu/ FBK CREATE-NET research center, Trento, Italy]\n
+- [https://create-net.fbk.eu/rising/ Robust and Secure Distributed Computing (RiSING) research unit]\n {{
+<img src="img/logo.png" alt="fbk" height="50px" align="right" /></a>
+}}
+\n
+[https://create-net.fbk.eu/ FBK CREATE-NET Research Center]
+\n
+Trento, Italy
 
-- [https://phd.unibo.it/etit/en Department of Electrical, Electronic and Information Engineering (DEI)]\n
-[https://www.unibo.it/en/homepage University of Bologna, Bologna, Italy]\n
+- [https://phd.unibo.it/etit/en Department of Electrical, Electronic and Information Engineering (DEI)]\n {{
+<img src="img/unibo.png" alt="unibo" height="80px" align="right" /></a>
+}}
+\n
+[https://www.unibo.it/en/homepage University of Bologna]
+\n
+Bologna, Italy
 
 Address: Via alla Cascata 56D, 38123, Trento, Italy\n
 Email: [ding@fbk.eu], [damu.ding2@unibo.it]\n
