@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
+
+= Damu Ding (丁大牧)
+
+~~~
+{}{img_left}{./photo_Damu.png}{photo}{150px}{200px}{}
+
+Co-tutored Ph.D stduent\n
+- [https://create-net.fbk.eu/rising/ Robust and Secure Distributed Computing (RiSING) research unit]\n
+[https://create-net.fbk.eu/ FBK CREATE-NET research center, Trento, Italy]\n
+
+- [https://phd.unibo.it/etit/en Department of Electrical, Electronic and Information Engineering (DEI)]\n
+[https://www.unibo.it/en/homepage University of Bologna, Bologna, Italy]\n
+
+Address: Via alla Cascata 56D, 38123, Trento, Italy\n
+Email: [ding@fbk.eu], [damu.ding2@unibo.it]
+\n
+~~~
+
+~~~
+{Recent News}
+- "Incremental Deployment of Programmable Switches for Network-wide Heavy-Hitter Detection" has been accepted by [http://netsoft2019.ieee-netsoft.org/ NetSoft2019] as a full paper (acceptance rate 19.3%)
+~~~
+
+== Biography
+Damu Ding received his B.Sc and M.Sc in telecommunications engineering from Politecnico di Torino, Italy and the University of Trento, Italy, respectively. In 2016 he joined CREATE-NET Research Center, Italy as a software developer working on the European 5G-Crosshaul project. He is currently a Ph.D student co-tutored by  Fondazione  Bruno  Kessler, CREATE-NET Research Center, Italy and the University of Bologna, Italy. His major research interests include SDN, network monitoring and anomaly detection.\n
+
