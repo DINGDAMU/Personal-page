@@ -3,11 +3,13 @@
 \n
 
 = Publications
-== Conference
+== Conference & Workshop
 == 2019
-- \[[http://netsoft2019.ieee-netsoft.org NetSoft 2019]] D.Ding, M.Savi, G.Antichi, and D.Siracusa, “Incrementaldeployment of programmable switches for network-wide heavy-hitter detection” \n
+- \[[https://p4.org/events/2019-09-23-euro-p4-workshop/ EuroP4]]  *D.Ding*, M.Savi, and D.Siracusa, "Estimation of logarithmic and exponential functions entirely in P4-programmable data planes" \n in  2nd P4 Workshop in Europe (EuroP4), 2019. \n (Non-proceeding track) \[[papers/EuroP4_2019.pdf paper]] \[[slides/EuroP4.pdf slides]]
+
+- \[[http://netsoft2019.ieee-netsoft.org NetSoft 2019]] *D.Ding*, M.Savi, G.Antichi, and D.Siracusa, “Incrementaldeployment of programmable switches for network-wide heavy-hitter detection” \n
 in IEEE Conference on Network Softwarization (NetSoft 2019), 2019.\n 
-(Full track < 20%)
+(Full track =  20/103 = 19.3%) \[[papers/netsoft2019.pdf paper]] \[[slides/NWHHD+.pdf slides]]
 
 == Journal
 == 2019
