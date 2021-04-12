@@ -8,7 +8,7 @@
 == 2021 
 - \[[https://www.comsoc.org/publications/journals/ieee-tnsm TNSM]\]  *D.Ding*, M.Savi, F.Pederzolli, M.Campanella and D.Siracusa, "In-Network Volumetric DDoS Victim Identification Using Programmable Commodity Switches" in IEEE Transactions on Network and Service Management, Special issue on 
 Latest Developments for Security Management of Networks and Services
-(IF=4.682, JCR Q1)   {{<a class="github-button" href="https://github.com/DINGDAMU/INDDoS" data-size="large" data-show-count="true" aria-label="Star">INDDoS</a>}}   
+(IF 2020=3.878, JCR Q1)   {{<a class="github-button" href="https://github.com/DINGDAMU/INDDoS" data-size="large" data-show-count="true" aria-label="Star">INDDoS</a>}}   
 
 == 2020
 - \[[https://www.comsoc.org/publications/journals/ieee-tnsm TNSM]\]  *D.Ding*, M.Savi, G.Antichi, and D.Siracusa, "An incrementally-deployable P4-enabled architecture for network-wide heavy-hitter detection" in IEEE Transactions on Network and Service Management, Special issue on Cybersecurity Techniques for Managing Networked Systems (Special issue acceptance rate = 8 \/ 44 = 18.18%, IF 2019=4.682, JCR Q1)  \[[papers/TNSM2020.pdf paper]] {{<a class="github-button" href="https://github.com/DINGDAMU/Network-wide-heavy-hitter-detection" data-size="large" data-show-count="true" aria-label="Star">NWHHD+</a>}}   
