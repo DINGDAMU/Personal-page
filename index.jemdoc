@@ -5,18 +5,23 @@
 = Damu Ding (丁大牧)
 
 ~~~
-{}{img_left}{./photo_Damu.png}{photo}{150px}{200px}{}
+{}{img_left}{./damu.jpeg}{photo}{200px}{}{}
 
-- [https://create-net.fbk.eu/rising/ Robust and Secure Distributed Computing (RiSING) research unit]\n {{
-<img src="img/logo-fbk.png" alt="fbk" height="100px" align="right" /></a>
+{{
+<img src="img/logo-oxford.png" alt="oxford" height="150px" align="right" /></a>
 }}
-\n
-[https://www.fbk.eu/ Fondazione Bruno Kessler]
-\n
-Trento, Italy
 
-Address: Via Sommarive 18, 38123, Trento, Italy\n
-Email: [ding@fbk.eu]\n
+- [https://eng.ox.ac.uk/computing/ Computing Infrastructure] 
+\n
+Department of Engineering Science
+\n
+[https://www.ox.ac.uk/ University of Oxford]
+\n
+Oxford, UK
+
+
+Address: Parks Road, Oxford, OX1 3PJ, UK\n
+Email: [dingdamu@gmail.com]\n
 
 {{
 <a href="https://orcid.org/0000-0001-9692-7756"><img src="img/orcid.png" alt="orcid" height="32px" style="vertical-align:middle" /></a>
@@ -29,6 +34,8 @@ Email: [ding@fbk.eu]\n
 
 ~~~
 {Recent News}
+- \[09/2021\] I joined the University of Oxford as a postdoctoral research assistant. 
+
 - \[05/2021\] I defended my Ph.D. at the University of Bologna, and I will be in the job market starting from July.
 
 - \[04/2021\] "In-Network Volumetric DDoS Victim Identification Using Programmable Commodity Switches" has been accepted by [https://www.comsoc.org/publications/journals/ieee-tnsm IEEE Transactions on Network and Service Management], Special issue on Latest Developments for Security Management of Networks and Services
@@ -51,5 +58,5 @@ Functions to Track Network Traffic Entropy in P4" has been accepted by [https://
 ~~~
 
 == Biography
-Damu Ding received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy, co-tutored with Fondazione Bruno Kessler, Trento, Italy. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and network anomaly detection.\n
+Damu Ding is a postdoctoral research assistant at the University of Oxford. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy, co-tutored with Fondazione Bruno Kessler, Trento, Italy. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and network anomaly detection.\n
 

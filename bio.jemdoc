@@ -22,13 +22,18 @@ Telecommunications engineering
 Telecommunications engineering
 
 == Work experience
-- \[2019.1 - 2021.7] \n
+- \[2021.9 - 2022.10\] University of Oxford\n
+Supervisor: Prof. Noa Zilberman
+Postdoctoral research assistant funded by Google Ireland Limited
+Identification of potential vulnerabilities in programmable network devices
+
+- \[2019.1 - 2021.7\] Fondazione Bruno Kessler Research Center\n
 Research engineer @ [https://www.geant.org/Projects/GEANT_Project_GN4-3/ GEANT GN4-3 project] \n
 1. Design and develop DDoS detection and mitigation, In-band network telemetry (INT) use cases in EdgeCore programmable switches equipped with Tofino ASIC for next-generation high speed networks \n
 2. Coordinate european collaborators for network performance testing \n
 3. Publish project-related results in high-quality publications\n
 
--  \[2017.6 - 2018.3\] \n
+-  \[2017.6 - 2018.3\] Fondazione Bruno Kessler Research Center\n
 Software developer @ [http://5g-crosshaul.eu/ European 5G-Crosshaul project] \n 
 Worked on the implementation of Resource Management Application (RMA) in SDN controller Opendaylight
 
@@ -42,5 +47,5 @@ The work has been implemented in SDN controller ONOS
 == Journal reviewer
 - IEEE Transactions on Network and Service Management (TNSM) 2020\n
 - Computer Networks 2020, 2021 \n
-- IEEE Transactions on Networking (TNSM) 2021\n
+- IEEE Transactions on Networking (TON) 2021\n
  
