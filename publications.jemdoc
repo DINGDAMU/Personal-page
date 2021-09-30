@@ -9,7 +9,7 @@
 - \[[https://www.computer.org/csdl/journal/tq TDSC]\]  *D.Ding*, M.Savi, and D.Siracusa, "
 Tracking Normalized Network Traffic Entropy to Detect DDoS Attacks in P4
 " in IEEE Transactions on Dependable and Secure Computing\n 
-(IF 2021=7.329, JCR Q1){{<a class="github-button" href="https://github.com/DINGDAMU/P4LogLog" data-size="large" data-show-count="true" aria-label="Star">P4LogLog</a>}} {{<a class="github-button" href="https://github.com/DINGDAMU/P4NEntropy" data-size="large" data-show-count="true" aria-label="Star">P4NEntropy</a>}} {{<a class="github-button" href="https://github.com/DINGDAMU/P4DDoS" data-size="large" data-show-count="true" aria-label="Star">P4DDoS</a>}} 
+(IF 2021=7.329, JCR Q1) \[[papers/TDSC2021.pdf pdf]]  {{<a class="github-button" href="https://github.com/DINGDAMU/P4LogLog" data-size="large" data-show-count="true" aria-label="Star">P4LogLog</a>}} {{<a class="github-button" href="https://github.com/DINGDAMU/P4NEntropy" data-size="large" data-show-count="true" aria-label="Star">P4NEntropy</a>}} {{<a class="github-button" href="https://github.com/DINGDAMU/P4DDoS" data-size="large" data-show-count="true" aria-label="Star">P4DDoS</a>}} 
 
 - \[[https://www.comsoc.org/publications/journals/ieee-tnsm TNSM]\]  *D.Ding*, M.Savi, F.Pederzolli, M.Campanella and D.Siracusa, "In-Network Volumetric DDoS Victim Identification Using Programmable Commodity Switches" in IEEE Transactions on Network and Service Management, Special issue on 
 Latest Developments for Security Management of Networks and Services

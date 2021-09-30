@@ -31,6 +31,9 @@ Email: [damu.ding@eng.ox.ac.uk]\n
 }}
 ~~~
 
+== Biography
+Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervsion of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy, co-tutored with Fondazione Bruno Kessler, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.[https://scholar.google.com/citations?user=RHOmrxIAAAAJ&hl=en Federico Pederzolli]. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and vulnerability identification in programmable network devices.\n
+
 
 ~~~
 {Recent News}
@@ -62,6 +65,4 @@ Functions to Track Network Traffic Entropy in P4" has been accepted by [https://
 - \[01/2019\] "Incremental Deployment of Programmable Switches for Network-wide Heavy-Hitter Detection" has been accepted by [http://netsoft2019.ieee-netsoft.org/ NetSoft2019] as a full paper (acceptance rate 19.3%)
 ~~~
 
-== Biography
-Damu Ding is a postdoctoral research assistant at the University of Oxford. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy, co-tutored with Fondazione Bruno Kessler, Trento, Italy. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and vulnerability identification in programmable network devices.\n
 
