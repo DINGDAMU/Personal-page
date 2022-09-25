@@ -10,7 +10,7 @@
 {{
 <img src="img/logo-oxford.png" alt="oxford" height="150px" align="right" /></a>
 }}
-
+\n
 - [https://eng.ox.ac.uk/computing/people Computing Infrastructure] 
 \n
 Department of Engineering Science
@@ -21,7 +21,8 @@ Oxford, UK
 
 
 Address: Parks Road, Oxford, OX1 3PJ, UK\n
-Email: [damu.ding@eng.ox.ac.uk]\n
+Email:\n 
+[damu.ding@eng.ox.ac.uk] (for general purposes), [dding@brookes.ac.uk] (for Brookes conacts only)\n
 
 {{
 <a href="https://orcid.org/0000-0001-9692-7756"><img src="img/orcid.png" alt="orcid" height="32px" style="vertical-align:middle" /></a>
@@ -33,11 +34,13 @@ Email: [damu.ding@eng.ox.ac.uk]\n
 ~~~
 
 == Biography
-Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.[https://scholar.google.com/citations?user=RHOmrxIAAAAJ&hl=en Federico Pederzolli]. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and vulnerability identification in programmable network devices.\n
+Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He is also a part-time assocaite lecturer at Oxford Brookes University. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.[https://scholar.google.com/citations?user=RHOmrxIAAAAJ&hl=en Federico Pederzolli]. His major research interests include SDN, network monitoring in P4-enabled programmable data planes, and vulnerability identification in programmable network devices.\n
 
 
 ~~~
 {Recent News}
+- \[09/2022\] I am appointed as Associate Lecturer (part-time) at Oxford Brookes University. 
+
 - \[07/2022\] Awarded [https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad Chinese government award for outstanding self-financed students abroad 2021]. 
 
 - \[07/2022\] Awarded Travel Grant to [https://conferences.sigcomm.org/sigcomm/2022/ SIGCOMM 2022]. 
