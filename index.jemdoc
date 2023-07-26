@@ -34,8 +34,13 @@ Email:\n
 ~~~
 
 == Biography
-Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.Federico Pederzolli. His major research interests include green computing in data center networks, network monitoring in P4-enabled programmable data planes, and vulnerability identification in programmable network devices.\n
+Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.Federico Pederzolli. \n
 
+== Research interests
+- Sustainable computing in data center networks
+- Hardware vulnerability identification in programmable network devices
+- Adversarial model of network data structures
+- Network monitoring in P4-enabled programmable data planes
 
 ~~~
 {Recent News}
