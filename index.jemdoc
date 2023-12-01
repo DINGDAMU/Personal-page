@@ -5,7 +5,7 @@
 = Damu Ding (丁大牧)
 
 ~~~
-{}{img_left}{./damu.jpeg}{photo}{200px}{}{}
+{}{img_left}{./damu_new.jpg}{photo}{450px}{}{}
 
 {{
 <img src="img/logo-oxford.png" alt="oxford" height="150px" align="right" /></a>
@@ -28,13 +28,16 @@ Email:\n
 <a href="https://orcid.org/0000-0001-9692-7756"><img src="img/orcid.png" alt="orcid" height="32px" style="vertical-align:middle" /></a>
 <a href="https://github.com/DINGDAMU/"><img src="img/github.png" alt="github" height="32px" style="vertical-align:middle" /></a>
 <a href="https://scholar.google.com/citations?user=keeDNc0AAAAJ&hl=en"><img src="img/googlescholar.png" alt="googlescholar" height="32px" style="vertical-align:middle" /></a>
-<a href="https://dblp.org/pers/hd/d/Ding:Damu"><img src="img/dblp.png" alt="googlescholar" height="32px" style="vertical-align:middle" /></a>
+<a href="https://dblp.org/pers/hd/d/Ding:Damu"><img src="img/dblp.png" alt="dblp" height="32px" style="vertical-align:middle" /></a>
+<a href="https://www.researchgate.net/profile/Damu-Ding"><img src="img/researchgate.png" alt="researchgate" height="32px" style="vertical-align:middle" /></a>
 <a href="https://www.linkedin.com/in/damu-ding-14a821212/"><img src="img/linkedin.png" alt="linkedin" height="32px" style="vertical-align:middle" /></a>
 }}
 ~~~
 
 == Biography
-Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.Federico Pederzolli. \n
+Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in Telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in Telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.Federico Pederzolli. \n
+
+{{<font color=red size=+0.5><b>}}I will join Bytedance (Seattle, USA) as a Senior Research&Development Software Engineer in 2024!{{</b></font>}}
 
 == Research interests
 - Sustainable computing in data center networks
@@ -44,6 +47,7 @@ Damu Ding is a postdoctoral research assistant at the University of Oxford, unde
 
 ~~~
 {Recent News}
+- \[12\/2023\] "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation" has been accepted by [https://infocom2024.ieee-infocom.org/ INFOCOM 2024] as a full paper (Acceptance ratio = 256/1307=19.6\%). 
 
 - \[11/2022\] Our paper "Estimating Logarithmic and Exponential Functions to Track Network Traffic Entropy in P4" published at NOMS 2020 has been awarded {{<a href="https://cnom.committees.comsoc.org/cnom-best-paper-award/" style="color:red;">IEEE CNOM Best paper award 2022</a>}}! 
 
