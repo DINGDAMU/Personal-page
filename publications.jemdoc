@@ -5,6 +5,11 @@
 = Publications
 
 == Journal
+== 2023 
+- \[[https://www.comsoc.org/publications/journals/ieee-comst COMST]\] C.Zheng, X.Hong, *D.Ding*, S.Vargaftik, Y.Ben-Itzhak, and
+N.Zilberman, "In-Network Machine Learning Using Programmable Network Devices: A Survey" in IEEE Communications Surveys and Tutorials \n (IF 2022 = 35.6, JCR Q1)
+
+
 == 2021 
 - \[[https://www.computer.org/csdl/journal/tq TDSC]\]  *D.Ding*, M.Savi, and D.Siracusa, "
 Tracking Normalized Network Traffic Entropy to Detect DDoS Attacks in P4
@@ -22,7 +27,7 @@ Latest Developments for Security Management of Networks and Services
 
 == Conference 
 == 2024
-- \[[https://infocom2024.ieee-infocom.org/ INFOCOM 2024]] *D.Ding* "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation"\n
+- \[[https://infocom2024.ieee-infocom.org/ INFOCOM 2024]] *D.Ding*, "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation"\n
 in IEEE International Conference on Computer Communications (INFOCOM 2024), 2024
 (Acceptance ratio =  256/1307 = 19.6\%)
 == 2022
