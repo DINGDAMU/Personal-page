@@ -28,13 +28,14 @@ Latest Developments for Security Management of Networks and Services
 == Conference 
 == 2024
 - \[[https://infocom2024.ieee-infocom.org/ INFOCOM 2024]] *D.Ding*, "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation"\n
-in IEEE International Conference on Computer Communications (INFOCOM 2024), 2024. \[[papers/INFOCOM_2024_final.pdf pdf]] 
-(Acceptance ratio =  256/1307 = 19.6\%)
+in IEEE International Conference on Computer Communications (INFOCOM 2024), 2024. 
+(Acceptance ratio =  256/1307 = 19.6\%) \[[papers/INFOCOM_2024_final.pdf pdf]] 
+
 == 2022
 - \[[https://noms2022.ieee-noms.org/ NOMS 2022]] *D.Ding*, M.Savi, F.Pederzolli and D.Siracusa, “Design and Development of Network Monitoring Strategies in P4-enabled Programmable Switches” \n
 in IEEE/IFIP Network Operations and Management Symposium
- (NOMS 2022), 2022. \[[papers/NOMS2022.pdf pdf]] \[[slides/NOMS2022.pdf slides]] 
-(Dissertation digest paper)
+ (NOMS 2022), 2022. \[[papers/NOMS2022.pdf pdf]] (Dissertation digest paper) \[[slides/NOMS2022.pdf slides]] 
+
 
 == 2021
 - \[[https://networking.ifip.org/2021/ IFIP Networking 2021]] *D.Ding*, M.Savi, F.Pederzolli and D.Siracusa, “INVEST: Flow-Based Traffic Volume Estimation in Data-Plane Programmable Networks” \n
