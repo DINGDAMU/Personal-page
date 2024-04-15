@@ -5,24 +5,19 @@
 = Damu Ding (丁大牧)
 
 ~~~
-{}{img_left}{./damu_new.jpg}{photo}{450px}{}{}
+{}{img_left}{./damu2024.jpg}{photo}{270px}{}{}
 
 {{
-<img src="img/logo-oxford.png" alt="oxford" height="150px" align="right" /></a>
+<img src="img/logo-bytedance.jpeg" alt="bytedance" height="90px" align="left" /></a>
 }}
+- [https://www.bytedance.com/en/ ByteDance Inc., US] 
 \n
-- [https://eng.ox.ac.uk/computing/people Computing Infrastructure] 
-\n
-Department of Engineering Science
-\n
-[https://www.ox.ac.uk/ University of Oxford]
-\n
-Oxford, UK
 
 
-Address: Parks Road, Oxford, OX1 3PJ, UK\n
+Address: 601 108th Ave NE \#1580, Bellevue, WA 98004\n
+
 Email:\n 
-[damu.ding@eng.ox.ac.uk] \n
+[damuding@bytedance.com] \n
 
 {{
 <a href="https://orcid.org/0000-0001-9692-7756"><img src="img/orcid.png" alt="orcid" height="32px" style="vertical-align:middle" /></a>
@@ -35,9 +30,10 @@ Email:\n
 ~~~
 
 == Biography
-Damu Ding is a postdoctoral research assistant at the University of Oxford, under supervision of Prof.[https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman]. He received the B.Sc. degree in Telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in Telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr.[https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr.[https://marcosavi.altervista.org/ Marco Savi] and Dr.Federico Pederzolli. \n
+Damu Ding is a Senior Software Development Engineer at ByteDance Inc., Seattle, US. He received the B.Sc. degree in Telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in Telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr. [https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr. [https://marcosavi.altervista.org/ Marco Savi] and Dr. Federico Pederzolli. 
+Prior to joining ByteDance Inc., he was a postdoctoral research assistant at the University of Oxford, under supervision of Prof. [https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman].
+\n
 
-{{<font color=red size=+0.5><b>}}I will join Bytedance (Seattle, USA) as a Senior Research&Development Software Engineer in 2024!{{</b></font>}}
 
 == Research interests
 - Sustainable computing in data center networks
@@ -47,6 +43,8 @@ Damu Ding is a postdoctoral research assistant at the University of Oxford, unde
 
 ~~~
 {Recent News}
+- \[04\/2024\] I joined ByteDance Inc. (Seattle, US) as a Senior Software Development Engineer. 
+
 - \[12\/2023\] "In-Network Machine Learning Using Programmable Network Devices: A Survey" has been accpted by [https://www.comsoc.org/publications/journals/ieee-comst IEEE Communications Surveys and Tutorials] (Impact factor=35.6).
 
 - \[12\/2023\] "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation" has been accepted by [https://infocom2024.ieee-infocom.org/ INFOCOM 2024] as a full paper (Acceptance ratio = 256/1307=19.6\%). 
