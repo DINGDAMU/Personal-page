@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{teaching.html}
+# jemdoc: nofooter
+\n
+= Teaching
+== Lecturing
+- CWM "Programmable network devices", demonstrator, University of Oxford, 2022, 2023
+-- Module "An introduction to P4"
+
+== Tutorial
+- "P4PI: P4 on Raspberry PI for Research and Education", IEEE NetSoft 2022
+
+== Hackathon
+- "P4Pi Hackathon: P4 on Raspberry PI for Networking Education", ACM SIGCOMM 2022
+

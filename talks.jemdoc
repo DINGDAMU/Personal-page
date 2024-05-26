@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{talks.html}
+# jemdoc: nofooter
+
+\n 
+
+= Talks 
+- Damu Ding, "Design and Development of Network Monitoring Strategies in P4-enabled Programmable Switches", Seminar at School of Cyber Science and Engineering, Southeast University, June 2023, Nanjing, China
+
+- Damu Ding, "Security and sustainability in programmable networked system", Seminar at School of Big data and Software Engineering, Chongqing University, June 2023, Chongqing, China
+
+- Damu Ding, "Security and sustainability in programmable networked system", Seminar at college of Computer Science, Chongqing University, June 2023, Chongqing, China
+
+- Damu Ding, "Improving the Energy Efficiency of High Throughput Computing: A Measurement-Based Case Study", LF Energy Summit, June 2023, Paris, France
+
+- Damu Ding, "Design and Development of Volumetric DDoS detection Strategies in P4-enabled Programmable Switches", Next Generation Networking (Coseners), July 2022, Abingdon, UK
+
+- Damu Ding, "Design and Development of Network Monitoring Strategies in P4-enabled Programmable Switches", Electrical Engineering Seminar (University of Oxford), May 2022, Virtual
+
+- Damu Ding, "Design and Development of Network Monitoring Strategies in P4-enabled Programmable Switches", IEEE/IFIP Network Operations and Management Symposium (NOMS), April 2022, Virtual
+
+- Damu Ding, "P4 on Raspberry Pi for Networking education", The Networking Channel, March 2022, Virtual
+
+- Damu Ding, "INVEST: Flow-based Traffic Volume Estimation in Data-plane Programmable Networks", IFIP Network Conference (IFIP Networking), June 2021, Virtual
+
+- Damu Ding, "Estimating Logarithmic and Exponential Functions to Track Network Traffic Entropy in P4", IEEE/IFIP Network Operations and Management Symposium (NOMS), April 2020, Virtual
+
+- Damu Ding, "Estimation of Logarithmic and Exponential Functions Entirely in P4-programmable Data Planes", 2nd P4 workshop in Europe (EuroP4), September 2019, Cambridge, UK
+
+- Damu Ding, "Incremental deployment of programmable switches for network-wide heavy-hitter detection", IEEE Conference on Network Softwarization (NetSoft), June 2019, Paris, France
